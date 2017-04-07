@@ -68,6 +68,7 @@ Le velours peut comporter :
 3. les symboles
 
 | Mortier et pilon sur ruban arc en ciel | A pris du ghb, a l'endroit: consciement, a l'envers: a son insu |
+| Bouteille de chartreuse | Est parisien |
 
 4. Elus aux differents conseils
 5. Vos armes personnelles
