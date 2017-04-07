@@ -107,3 +107,6 @@ Compliqué a decrire, [plus d'infos](https://www.youtube.com/watch?v=DtFXxlMOVFk
 
 # Article XVII
 La faluche est un attribut qui doit être respecté par tous. Des sanctions pourront être prises pour tout non-respect vis-à-vis d'une faluche. D'autre part, tout étudiant surpris en train de bizuter en début d'année sans être porteur d'une faluche sera lui-même considéré comme bizuth. Il encourt, à ce titre, les pires sévices.
+
+# Une note sur les adoptions IF
+Non.
