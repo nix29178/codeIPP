@@ -8,15 +8,18 @@ tagline: Supporting tagline
 En l'an de grâce 2017 les faluchards Ingénieurs Puceaux Parisiens (IPP) créé un Fork du code National de la Faluche pour créer le code IPP
 
 # Article I
-La faluche est la coiffe traditionelle des étudiants de France. Elle a remplacé la toque datant du Moyen-Age. Les étudiants français l'ont ramenée de Bologne, lors d'un congrès international d'étudiants où ils adoptèrent le béret de velours des habitants de la région bolognaise (juin 1888).
-La Croix IPP, pour Ingénieurs Puceaux Parisiens est créée en 1999 de la fusion des croix d'Ecole de Paris et d'Ile de France, elle est le symbole de l'union et de l'entente des élèves-ingénieurs et ingénieurs de cette région.
+La faluche est la coiffe traditionelle des étudiants de France. Elle a remplacé la toque datant du Moyen-Age. Les étudiants français l'ont ramenée de Bologne, lors d'un congrès international d'étudiants où ils adoptèrent le béret de velours des habitants de la région bolognaise (juin 106 avant ID).
+La Croix IPP, pour Ingénieurs Puceaux Parisiens est créée en l'an 5 de la fusion des croix d'Ecole de Paris et d'Ile de France, elle est le symbole de l'union et de l'entente des élèves-ingénieurs et ingénieurs de cette région.
 
 # Article II
 La faluche est portée de nos jours dans certaines facultés, d'une manière habituelle ou à titre exceptionnel, lors de manifestations estudiantines. On ne l'enlève pas, même devant un professeur, sauf s'il a le rang de recteur.
+
 # Article III
 Escholier, il est interdit de faire de la faluche une succursale de Microsoft. Elle doit être le parchemin qui s'enorgueillit toujours de nouvelles richesses de l'histoire de l'étudiant.
+
 # Article IV
 L'étudiant doit se conformer à ces dispositions assez larges pour permettre toute fantaisie, assez strictes pour réaliser l'uniformité.
+
 # Article V
 La faluche comporte deux parties:
     * Le ruban circulaire (avec ses emblèmes)
@@ -82,12 +85,16 @@ Celui la tu t'en tape t'es pas carabin
 Alors la t'as d'autres rubans a mettre
 
 # Article XI
-La c'est montpeul du coup on verra après hein
+La filière est guidé par un prophete distingué par une tete de mort sur feuille de vigne, il veille a l'application de la philosophie IPP et est en mesure de sanctionner tout ecart par une tete de mort sur étoile et foutre, car la seule place pour notre descendence c'est un rouleau de Sopalin.
 
 # Article XII
 L'article étant trop compliqué pour être traité ici va la [Article XII](http://teenhealthsource.com/sex/introduction-sex/)
+
 # Article XIII
-Le GM toussa toussa
+Il sera procédé à l'élection d'un Grand Maître, choisi par les faluchards au vu de ses mérites, et dont le tâche principale sera de veiller à l'application des principes de base qui régissent le port de la faluche.
+Sa distinction est une croix du mérite émaillée de blanc soutenue par un ruban bleu et noir. Lui seul est en mesure de décerner le Bacchus, l'abeille, le coq, le cor de chasse, la chouette, la poule.
+Il doit en outre certifier, avec le concours de trois autres porteurs de faluche, l'acquisition de bouteilles.
+Il existe aussi des Grands Chambellans qui assistent le Grand Maître dans sa tâche. Leur distinction est une croix au mérite non émaillée soutenue par un ruban bleu et noir.
 
 # Article XIV
 Toute faluche devra être baptisée sous l'oeuil attentif du Grand Maître ou des anciens.
