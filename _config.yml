@@ -1,0 +1,42 @@
+name:               "Code IPP"
+description:        "J'ai pas d'idée de description"
+
+url:                ""
+author:             "Les croix IPP"
+email:              "Lel@yopmail.com"
+gravatar_hash:      "205e460b479e2e5b48aec07710c08d50"
+twitter:            "KimKardashian"
+github:             "nix29178/codeIPP"
+facebook:           "IhavenomemesImustshitpost/videos/634145143453730/"
+
+disqus_shortname:   "thinker3197"
+
+background:         "http://apple.wallpapersfine.com/wallpapers/original/1242x2208/w-5273.jpg"
+
+baseurl:            ""
+permalink:          /:year/:month/:day/:title/
+
+markdown:           kramdown
+
+nav:
+  - name:           "About"
+    href:           "/about"
+  - name:           "Download"
+    href:           "/releases"
+
+sass:
+  style:            :compressed
+
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
