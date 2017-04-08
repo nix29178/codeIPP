@@ -57,7 +57,9 @@ Sur le ruban circulaire doit figurer :
     | * | Tu l'ecris |
 2. Les emblemes
 
-    | Ecoles d'ingenieur | Etoile et foutre |
+    | Ecoles d'ingenieur | Etoile et foutre (le nom de l'école peut être indiqué) |
+    | Institut Universitaire de Technologie | Marteau et Maillet |
+    | Classes Préparatoires aux Grandes Écoles | Chouette Bicéphale |
 
 NB : Le cas de la L1 Santé. En cas de le L1 réussie, tu aura une gomette. En cas de L1 échoué ou en cours, tu n'en aura pas.
 
@@ -74,6 +76,7 @@ Le velours peut comporter :
 
 | Mortier et pilon sur ruban arc en ciel | A pris du ghb, a l'endroit: consciement, a l'envers: a son insu |
 | Bouteille de chartreuse | Est parisien |
+| Lettres P U C E A U  | Est Puceau |
 
 4. Elus aux differents conseils
 5. Vos armes personnelles
