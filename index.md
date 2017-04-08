@@ -37,6 +37,8 @@ Voici les couleurs nationalement adoptées, basées sur celles des toges doctora
 | Chirurgie dentaire | Velours bordeaux |
 | Paramédical | Velours rose |
 | Sage Femme | Velours fushia |
+| Institut Universitaire de Technologie | Satin blanc |
+| Classes Préparatoires aux Grandes Écoles | Satin Marron |
 | IF | Un peu de tout, clairement la flemme, google it |
 | Chiences | Satin violé |
 | Tout ce qui va te mener au mac do/Chomage | Satin Jaune |
@@ -92,9 +94,10 @@ L'article étant trop compliqué pour être traité ici va la [Article XII](http
 
 # Article XIII
 Il sera procédé à l'élection d'un Grand Maître, choisi par les faluchards au vu de ses mérites, et dont le tâche principale sera de veiller à l'application des principes de base qui régissent le port de la faluche.
+L'élection du grand maitre doit se faire dans la joie et la bonne humeur, tout manquement à cette règle se verra l'objet d'une sanction imposé et/ou infligé par Yull 
 Sa distinction est une croix du mérite émaillée de blanc soutenue par un ruban bleu et noir. Lui seul est en mesure de décerner le Bacchus, l'abeille, le coq, le cor de chasse, la chouette, la poule.
 Il doit en outre certifier, avec le concours de trois autres porteurs de faluche, l'acquisition de bouteilles.
-Il existe aussi des Grands Chambellans qui assistent le Grand Maître dans sa tâche. Leur distinction est une croix au mérite non émaillée soutenue par un ruban bleu et noir.
+Il existe aussi des Grands Chambellans qui assistent le Grand Maître dans sa tâche. Leur distinction est une croix au mérite non émaillée soutenue par un ruban bleu et noir. Le grand chambellan se doit de servir les verres à la perfection. 
 
 # Article XIV
 Toute faluche devra être baptisée sous l'oeuil attentif du Grand Maître ou des anciens.
