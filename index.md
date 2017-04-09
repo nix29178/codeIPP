@@ -26,7 +26,7 @@ La faluche comporte deux parties:
     * Le velours noir (avec ses rubans supérieurs).
 
 # Article VI
-Le ruban circulaire est à la couleur de la discipline principale. Pour les disciplines secondaires, on placera sur le bord supérieur du ruban de la discipline principale, un ruban plus mince aux couleurs de la discipline annexe.
+Le ruban circulaire est à la couleur de la discipline principale. Pour les disciplines secondaires, on placera sur le bord supérieur du ruban de la discipline principale, un ruban plus mince aux couleurs de la discipline annexe. Le circulaire pourra être en bois ou en plexiglace mais il est inconcevable d'avoir un circulaire en metal, materiau reservé a la fabrication de canettes.
 
 Voici les couleurs nationalement adoptées, basées sur celles des toges doctorales et professorales des universités françaises :
 
