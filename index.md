@@ -30,7 +30,7 @@ Le ruban circulaire est à la couleur de la discipline principale. Pour les disc
 
 Voici les couleurs nationalement adoptées, basées sur celles des toges doctorales et professorales des universités françaises :
 
-| Ecoles d'ingenieur |     Velours bleu et noir     |
+| Ecoles d'ingenieur |     Velours bleu marine et noir     |
 | Medecine           | Velours rouge |
 | Preparateur en pharmacie | Velours vert |
 | Vétérinaire | Velours violet |
@@ -78,6 +78,7 @@ Le velours peut comporter :
 | Bouteille de chartreuse | Est parisien |
 | Lettres P U C E A U  | Est Puceau |
 | Chauve Souris à l'envers | Amour de Batman |
+| Tux | Amour de Tux |
 
 4. Elus aux differents conseils
 5. Vos armes personnelles
