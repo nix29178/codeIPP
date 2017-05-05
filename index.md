@@ -79,6 +79,7 @@ Le velours peut comporter :
 | Lettres P U C E A U  | Est Puceau |
 | Chauve Souris à l'envers | Amour de Batman |
 | Tux | Amour de Tux |
+| Pachy | Humour ingénieur |
 
 4. Elus aux differents conseils
 5. Vos armes personnelles
