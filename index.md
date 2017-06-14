@@ -71,15 +71,6 @@ Ils devrons placer le drapeau de leur pays d'origin sous la 1ere etoile
 # Article VIII
 Le velours peut comporter :
 1. Les insignes
-
-singe : connerie certifié
-
-chauve-souris : A fait la nouba pour motif étudiant
-
-chauve-souris retourné : A fait la nouba à la pistoche
-
-hache croisé carotte : A niqué une soeur
-
 2. Votre devise
 3. les symboles
 
@@ -89,6 +80,10 @@ hache croisé carotte : A niqué une soeur
 | Chauve Souris à l'envers | Amour de Batman |
 | Tux | Amour de Tux |
 | Pachy | Humour ingénieur |
+| Singe | connerie certifié |
+| Chauve-souris | A fait la nouba à la pistoche |
+| Chauve-souris sur crachat | A fait la nouba à la pistoche |
+| hache croisé carotte | A niqué une soeur |
 
 4. Elus aux differents conseils
 5. Vos armes personnelles
