@@ -78,6 +78,8 @@ chauve-souris : A fait la nouba pour motif étudiant
 
 chauve-souris retourné : A fait la nouba à la pistoche
 
+hache croisé carotte : A niqué une soeur
+
 2. Votre devise
 3. les symboles
 
