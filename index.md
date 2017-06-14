@@ -73,7 +73,9 @@ Le velours peut comporter :
 1. Les insignes
 
 singe : connerie certifié
+
 chauve-souris : A fait la nouba pour motif étudiant
+
 chauve-souris retourné : A fait la nouba à la pistoche
 
 2. Votre devise
