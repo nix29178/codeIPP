@@ -84,6 +84,7 @@ Le velours peut comporter :
 | Chauve-souris | A fait la nouba à la pistoche |
 | Chauve-souris sur crachat | A fait la nouba à la pistoche |
 | hache croisé carotte | A niqué une soeur |
+| Abeille sur Ruban Violet | Myope |
 
 4. Elus aux differents conseils
 5. Vos armes personnelles
