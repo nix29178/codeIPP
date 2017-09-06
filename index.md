@@ -85,6 +85,10 @@ Le velours peut comporter :
 | Chauve-souris sur crachat | A fait la nouba à la pistoche |
 | hache croisé carotte | A niqué une soeur |
 | Abeille sur Ruban Violet | Myope |
+| Plume | Mousquetaire |
+| Épée | Bretteur |
+| Gourdin | Gand bretteur |
+| Hache | Prise de Brocode |
 
 4. Elus aux differents conseils
 5. Vos armes personnelles
