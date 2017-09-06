@@ -89,6 +89,7 @@ Le velours peut comporter :
 | Épée | Bretteur |
 | Gourdin | Gand bretteur |
 | Hache | Prise de Brocode |
+| Couvert jetable | Amateur de fish & chips |
 
 4. Elus aux differents conseils
 5. Vos armes personnelles
