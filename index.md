@@ -90,6 +90,7 @@ Le velours peut comporter :
 | Gourdin | Gand bretteur |
 | Hache | Prise de Brocode |
 | Couvert jetable | Amateur de fish & chips |
+| lettres M D R | Personne drôle |
 
 4. Elus aux differents conseils
 5. Vos armes personnelles
