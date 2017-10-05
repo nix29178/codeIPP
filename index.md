@@ -90,7 +90,9 @@ Le velours peut comporter :
 | Gourdin | Gand bretteur |
 | Hache | Prise de Brocode |
 | Couvert jetable | Amateur de fish & chips |
-| lettres M D R | Personne drôle |
+| Lettres "LOL", "LEL", "KEK" ou "TOPKEK" | Personne drôle (par ordre d'intensité) |
+| Lettres "MDR" | Personne drôle en français |
+| Lettres "XD" | Personne bon public | 
 
 4. Elus aux differents conseils
 5. Vos armes personnelles
