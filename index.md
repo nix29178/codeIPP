@@ -86,7 +86,7 @@ Le velours peut comporter :
 | hache croisé carotte | A niqué une soeur |
 | Abeille sur Ruban Violet | Myope |
 | Plume | Mousquetaire |
-| Épée | Bretteur |
+| Épée | S'est masturbé 8 fois en 24 heures |
 | Gourdin | Gand bretteur |
 | Hache | Prise de Brocode |
 | Couvert jetable | Amateur de fish & chips |
