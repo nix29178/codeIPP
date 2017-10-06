@@ -82,7 +82,7 @@ Le velours peut comporter :
 
    * Ecrit dans la langue que tu veux, en sms je m'en bat les couilles mamène
 
-3. les symboles
+3. Les symboles
 
 | Mortier et pilon sur ruban arc en ciel | A pris du ghb |
 |  | a l'endroit: consciement |
@@ -98,6 +98,7 @@ Le velours peut comporter :
 | Chauve Souris à l'envers | Amour de Batman |
 | Tux | Amour de Tux |
 | Pachy | Humour ingénieur |
+| Singe | connerie certifiée |
 | Chauve-souris | A fait la nouba à la pistoche |
 | Chauve-souris sur crachat | A fait la nouba à la pistoche |
 | hache croisé carotte | A niqué une soeur |
