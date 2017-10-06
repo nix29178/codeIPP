@@ -55,19 +55,19 @@ Sur le ruban circulaire doit figurer :
     | S | ε |
     | ES | β |
     | L | lol |
-    | * | Tu l'ecris |
+    | * | Tu l'écris |
 2. Les emblemes
 
     | Ecoles d'ingenieur | Etoile et foutre (le nom de l'école peut être indiqué) |
     | Institut Universitaire de Technologie | Marteau et Maillet |
     | Classes Préparatoires aux Grandes Écoles | Chouette Bicéphale |
 
-NB : Le cas de la L1 Santé. En cas de le L1 réussie, tu aura une gomette. En cas de L1 échoué ou en cours, tu n'en aura pas.
+NB : Le cas de la L1 Santé. En cas de le L1 réussie, tu auras une gomette. En cas de L1 échoué ou en cours, tu n'en auras pas.
 
 3. Le cursus universitaire
 
-4. Les etudiants etrangers
-Ils devrons placer le drapeau de leur pays d'origin sous la 1ere etoile
+4. Les étudiants étrangers
+Ils devront placer le drapeau de leur pays d'origine sous la 1ère étoile
 
 # Article VIII
 Le velours peut comporter :
@@ -192,10 +192,10 @@ L'article étant trop compliqué pour être traité ici va la [Article XII](http
 
 # Article XIII
 Il sera procédé à l'élection d'un Grand Maître, choisi par les faluchards au vu de ses mérites, et dont le tâche principale sera de veiller à l'application des principes de base qui régissent le port de la faluche.
-L'élection du grand maitre doit se faire dans la joie et la bonne humeur, tout manquement à cette règle se verra l'objet d'une sanction imposé et/ou infligé par Yull 
+L'élection du grand maitre doit se faire dans la joie et la bonne humeur, tout manquement à cette règle se verra l'objet d'une sanction imposé et/ou infligé par Yull
 Sa distinction est une croix du mérite émaillée de blanc soutenue par un ruban bleu et noir. Lui seul est en mesure de décerner le Bacchus, l'abeille, le coq, le cor de chasse, la chouette, la poule.
 Il doit en outre certifier, avec le concours de trois autres porteurs de faluche, l'acquisition de bouteilles.
-Il existe aussi des Grands Chambellans qui assistent le Grand Maître dans sa tâche. Leur distinction est une croix au mérite non émaillée soutenue par un ruban bleu et noir. Le grand chambellan se doit de servir les verres à la perfection. 
+Il existe aussi des Grands Chambellans qui assistent le Grand Maître dans sa tâche. Leur distinction est une croix au mérite non émaillée soutenue par un ruban bleu et noir. Le grand chambellan se doit de servir les verres à la perfection.
 
 # Article XIV
 Toute faluche devra être baptisée sous l'oeuil attentif du Grand Maître ou des anciens.
@@ -209,7 +209,7 @@ Compliqué a decrire, [plus d'infos](https://www.youtube.com/watch?v=DtFXxlMOVFk
 # Article XVII
 La faluche est un attribut qui doit être respecté par tous. Des sanctions pourront être prises pour tout non-respect vis-à-vis d'une faluche. D'autre part, tout étudiant surpris en train de bizuter en début d'année sans être porteur d'une faluche sera lui-même considéré comme bizuth. Il encourt, à ce titre, les pires sévices.
 
-# Article XLII 
+# Article XLII
 Tout faluchard ingénieur irrespectueux envers ces croix ou devant les talents des sciences seront impérativement privé de nouba à la pistoche. Si cette sanction ne suffit pas, le concerné se verra obliger de boire du savoureux rhum-tomate.
 
 # Une note sur les adoptions IF
