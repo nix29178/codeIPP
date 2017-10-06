@@ -5,11 +5,11 @@ tagline: Supporting tagline
 ---
 
 # Introduction
-En l'an de grâce 2017 les faluchards Ingénieurs Puceaux Parisiens (IPP) créé un Fork du code National de la Faluche pour créer le code IPP
+En l'an de grâce 2017 les faluchards Ingénieurs Puceaux Parisiens (IPP) créent un Fork du code National de la Faluche pour créer le code IPP
 
 # Article I
-La faluche est la coiffe traditionelle des étudiants de France. Elle a remplacé la toque datant du Moyen-Age. Les étudiants français l'ont ramenée de Bologne, lors d'un congrès international d'étudiants où ils adoptèrent le béret de velours des habitants de la région bolognaise (juin 106 avant ID).
-La Croix IPP, pour Ingénieurs Puceaux Parisiens est créée en l'an 5 de la fusion des croix d'Ecole de Paris et d'Ile de France, elle est le symbole de l'union et de l'entente des élèves-ingénieurs et ingénieurs de cette région.
+La faluche est la coiffe traditionnelle des étudiants de France. Elle a remplacé la toque datant du Moyen Âge. Les étudiants français l'ont ramenée de Bologne, lors d'un congrès international d'étudiants où ils adoptèrent le béret de velours des habitants de la région bolognaise (juin 106 avant ID).
+La Croix IPP, pour Ingénieurs Puceaux Parisiens est créée en l'an 5 de la fusion des croix d'École de Paris et d'Île-de-France, elle est le symbole de l'union et de l'entente des élèves ingénieurs et ingénieurs de cette région.
 
 # Article II
 La faluche est portée de nos jours dans certaines facultés, d'une manière habituelle ou à titre exceptionnel, lors de manifestations estudiantines. On ne l'enlève pas, même devant un professeur, sauf s'il a le rang de recteur.
@@ -27,17 +27,17 @@ La faluche comporte deux parties:
     * Le velours noir (avec ses rubans supérieurs).
 
 # Article VI
-Le ruban circulaire est à la couleur de la discipline principale. Pour les disciplines secondaires, on placera sur le bord supérieur du ruban de la discipline principale, un ruban plus mince aux couleurs de la discipline annexe. Le circulaire pourra être en bois ou en plexiglace mais il est inconcevable d'avoir un circulaire en metal, materiau reservé a la fabrication de canettes.
+Le ruban circulaire est à la couleur de la discipline principale. Pour les disciplines secondaires, on placera sur le bord supérieur du ruban de la discipline principale, un ruban plus mince aux couleurs de la discipline annexe. Le circulaire pourra être en bois ou en plexiglace mais il est inconcevable d'avoir un circulaire en métal, matériau réservé à la fabrication de canettes.
 
 Voici les couleurs nationalement adoptées, basées sur celles des toges doctorales et professorales des universités françaises :
 
-| Ecoles d'ingenieur |     Velours bleu marine et noir     |
-| Medecine           | Velours rouge |
-| Preparateur en pharmacie | Velours vert |
+| Écoles d'ingénieur |     Velours bleu marine et noir     |
+| Médecine           | Velours rouge |
+| Préparateur en pharmacie | Velours vert |
 | Vétérinaire | Velours violet |
 | Chirurgie dentaire | Velours bordeaux |
 | Paramédical | Velours rose |
-| Sage Femme | Velours fushia |
+| Sage Femme | Velours fuchsia |
 | Institut Universitaire de Technologie | Satin blanc |
 | Classes Préparatoires aux Grandes Écoles | Satin Marron |
 | IF | Un peu de tout, clairement la flemme, google it |
