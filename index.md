@@ -84,9 +84,9 @@ Le velours peut comporter :
 
 3. les symboles
 
-| Mortier et pilon sur ruban arc en ciel | A pris du ghb  
-a l'endroit: consciement  
-a l'envers: a son insu |
+| Mortier et pilon sur ruban arc en ciel | A pris du ghb |
+|  | a l'endroit: consciement |
+|  | a l'envers: a son insu |
 | Bouteille de chartreuse | Est parisien |
 | Lettres P U C E A U  | Est Puceau |
 | Chauve Souris à l'envers | Amour de Batman |
