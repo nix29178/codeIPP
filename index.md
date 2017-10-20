@@ -87,6 +87,12 @@ Le velours peut comporter :
 | Mortier et pilon sur ruban arc en ciel | A pris du ghb |
 |  | a l'endroit: consciement |
 |  | a l'envers: a son insu |
+| Chameau | A l'endroit: avoue se masturber |
+|  | A l'envers: ne l'avoue pas |
+| Squelette | A l'endroit: personne posedant des os |
+|  | A l'envers: personne aimant les os |
+| Tête de cheval | A l'endroit: Aime le cheval dans l'assiete |
+|  | A l'envers: s'est fait prank en mode le parrain |
 | Bouteille de chartreuse | Est parisien |
 | Lettres P U C E A U  | Est Puceau |
 | Chauve Souris à l'envers | Amour de Batman |
@@ -104,12 +110,9 @@ Le velours peut comporter :
 | Lettres "MDR" | Personne drôle en français |
 | Lettres "XD" | Personne bon public | 
 | Anneaux Olympiques | Staps qui a réussi |
-| Chameau | A l'endroit: avoue se masturber, a l'envers: ne l'avoue pas |
 | Cochon | Gros porc |
 | Feuille de vigne | Plus beau boule de rose grenoble |
 | Fourchette croisé faucille | S'est rendu compte que ca donne faim d'etre communiste |
-| Squelette | a l'endroit: personne posedant des os, a l'envers: personne aimant les os |
-| Tête de cheval | a l'endroit: Aime le cheval dans l'assiete, a l'envers: s'est fait prank en mode le parrain |
 | Tête de vache | Personne moche |
 | Lion | Amateur du roi lion |
 
