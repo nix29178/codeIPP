@@ -109,6 +109,7 @@ Le velours peut comporter :
 | Lettres "LOL", "LEL", "KEK" ou "TOPKEK" | Personne drôle (par ordre d'intensité) |
 | Lettres "MDR" | Personne drôle en français |
 | Lettres "XD" | Personne bon public | 
+| Lettres "XD" à l'envers | Personne bon public de ses propres blagues |
 | Anneaux Olympiques | Staps qui a réussi |
 | Cochon | Gros porc |
 | Feuille de vigne | Plus beau boule de rose grenoble |
