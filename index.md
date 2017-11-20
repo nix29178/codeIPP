@@ -91,7 +91,7 @@ Le velours peut comporter :
 |  | A l'envers: ne l'avoue pas |
 | Squelette | A l'endroit: personne posedant des os |
 |  | A l'envers: personne aimant les os |
-| Tête de cheval | A l'endroit: Aime le cheval dans l'assiete |
+| Tête de cheval | A l'endroit: Aime le cheval dans l'assiete |
 |  | A l'envers: s'est fait prank en mode le parrain |
 | Bouteille de chartreuse | Est parisien |
 | Lettres P U C E A U  | Est Puceau |
@@ -113,7 +113,7 @@ Le velours peut comporter :
 | Cochon | Gros porc |
 | Feuille de vigne | Plus beau boule de rose grenoble |
 | Fourchette croisé faucille | S'est rendu compte que ca donne faim d'etre communiste |
-| Tête de vache | Personne moche |
+| Tête de vache | Personne moche |
 | Lion | Amateur du roi lion |
 
 Insignes descernés par les croix:
@@ -126,13 +126,13 @@ Insignes descernés par les croix:
 | Singe | connerie certifié |
 | Cor de chasse | Farm comme un chinois a l'usine |
 | Mamouth | Est en prison |
-| Sou troué | Pauvre de oooooooouf |
+| Sou troué | Pauvre de oooooooouf |
 | Épée | S'est masturbé 8 fois en 24 heures |
 
 Insigne descernés par le/la/les partenaire(s) :
 
-| Pensée | A réaliser la plus grande partie |
-| Flèche | A finit sa partie le premier |
+| Pensée | A réaliser la plus grande partie |
+| Flèche | A finit sa partie le premier |
 | Lime | A galère sa mere |
 
 4. Elus aux differents conseils
@@ -146,43 +146,43 @@ Insigne descernés par le/la/les partenaire(s) :
     Surmontés des ecussons en toile correspondants.
 
 # Article IX
-Le circulaire de la faluche peut être de velours ou de satin, ceci est sensé refleter la filière représenter, le velours êtant tout doux et plutôt chouette sera reservé aux filières bonne ambiance, les relou, pleureurs et autres drama kings se verront affubler de satin.
+Le circulaire de la faluche peut être de velours ou de satin, ceci est sensé refleter la filière représenter, le velours êtant tout doux et plutôt chouette sera reservé aux filières bonne ambiance, les relou, pleureurs et autres drama kings se verront affubler de satin. Les filières dont on ne connais pas le coefficient de drolitude auront le droit de porté du lin ou du coton au choix, on appelle ca la chance du debutant.
 
 # Article X
-Sur le velours figurent aussi les rubans supérieurs de gauche à droite, du frontal à l’occipital :
+Sur le velours figurent aussi les rubans supérieurs de gauche à droite, du frontal à l’occipital :
 
-1. Le ruban de la ville de faculté
-   Ruban perpendiculaire à celui de l’association, aux couleurs de la ville de faculté, surmonté d’un écusson.
-   L’étudiant changeant de ville de faculté (France ou étranger) placera parallèlement et en arrière du précédent, un ruban surmonté d’un écusson, aux couleurs de sa nouvelle ville universitaire, et l’année de changement en chiffres.
+1. Le ruban de la ville de faculté
+   Ruban perpendiculaire à celui de l’association, aux couleurs de la ville de faculté, surmonté d’un écusson.
+   L’étudiant changeant de ville de faculté (France ou étranger) placera parallèlement et en arrière du précédent, un ruban surmonté d’un écusson, aux couleurs de sa nouvelle ville universitaire, et l’année de changement en chiffres.
 
 2. Les rubans d’associations
-   Ruban aux couleurs de l’association précisant la place occupée par l’étudiant.
+   Ruban aux couleurs de l’association précisant la place occupée par l’étudiant.
 
-3. Pour les représentants d’association
-   a) Pour les membres du conseil d’administration et du bureau d’association régionale : un ruban aux couleurs de la ville d’élection
+3. Pour les représentants d’association
+   a) Pour les membres du conseil d’administration et du bureau d’association régionale : un ruban aux couleurs de la ville d’élection
    
-   b) Pour les élus et délégués au plan national :
-      — Pour les membres du conseil d’administration des associations, unions, fédérations nationales : un ruban tricolore
-      — Pour les membres de bureau : un ruban tricolore avec un filet blanc de chaque coté — Pour le président : un ruban tricolore avec une bande blanche de chaque coté
+   b) Pour les élus et délégués au plan national :
+      — Pour les membres du conseil d’administration des associations, unions, fédérations nationales : un ruban tricolore
+      — Pour les membres de bureau : un ruban tricolore avec un filet blanc de chaque coté — Pour le président : un ruban tricolore avec une bande blanche de chaque coté
    
-   c) Pour les élus ou délégués au plan européen : Les couleurs de l’Europe
+   c) Pour les élus ou délégués au plan européen : Les couleurs de l’Europe
    
-   d) Pour les élus ou délégués au plan international : les couleurs de l’O.N.U. Le délégué placera le ruban de plus haut grade
+   d) Pour les élus ou délégués au plan international : les couleurs de l’O.N.U. Le délégué placera le ruban de plus haut grade
 
-4. Élus aux conseils d’UFR, conseils d’université, conseils régionaux et nationaux
-   L’élu placera, du frontal à l’occipital, un ruban de couleur jaune dont l’extrémité occipitale sera laissée libre. Sur ce pendentif seront placées par mandat :
+4. Élus aux conseils d’UFR, conseils d’université, conseils régionaux et nationaux
+   L’élu placera, du frontal à l’occipital, un ruban de couleur jaune dont l’extrémité occipitale sera laissée libre. Sur ce pendentif seront placées par mandat :
       
-      — Une grenouille argentée pour les élus au conseil d’UFR
-      — Une grenouille dorée pour les élus au conseil d’université
-      — Une tortue argentée pour les élus au CROUS
-      — Une tortue dorée pour les élus au CNOUS
+      — Une grenouille argentée pour les élus au conseil d’UFR
+      — Une grenouille dorée pour les élus au conseil d’université
+      — Une tortue argentée pour les élus au CROUS
+      — Une tortue dorée pour les élus au CNOUS
       — Les initiales des autres conseils (CNESER, OVE, COMUE ...)
-      — Une étoile dorée pour les VP étudiants d’université
-      — Une étoile argentée pour le VP étudiant d’UFR ou de CA d’IUT
-      — Une étoile dorée par mandat de délégués mutualistes (sur un petit ruban bleu)
+      — Une étoile dorée pour les VP étudiants d’université
+      — Une étoile argentée pour le VP étudiant d’UFR ou de CA d’IUT
+      — Une étoile dorée par mandat de délégués mutualistes (sur un petit ruban bleu)
 
 5. Les rubans de province et de ville de naissance
-   Surmontés des écussons en toile correspondants.
+   Surmontés des écussons en toile correspondants.
 
 # Article XI
 La filière est guidé par un prophete distingué par une tete de mort sur feuille de vigne, il veille a l'application de la philosophie IPP et est en mesure de sanctionner tout ecart par une tete de mort sur étoile et foutre, car la seule place pour notre descendence c'est un rouleau de Sopalin.
