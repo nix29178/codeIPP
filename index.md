@@ -22,6 +22,7 @@ L'étudiant doit se conformer à ces dispositions assez larges pour permettre to
 
 # Article V
 La faluche comporte deux parties:
+    
     * Le ruban circulaire (avec ses emblèmes)
     * Le velours noir (avec ses rubans supérieurs).
 
@@ -71,39 +72,117 @@ Ils devrons placer le drapeau de leur pays d'origin sous la 1ere etoile
 # Article VIII
 Le velours peut comporter :
 1. Les insignes
+
+   * Des congrès auquel t'as participer mon gars
+   * Des dagobi que t'as goulument avalés 
+   * Que t'as voler a tes potes en soirée
+   * Que tu veux en fait
+
 2. Votre devise
+
+   * Ecrit dans la langue que tu veux, en sms je m'en bat les couilles mamène
+
 3. les symboles
 
-| Mortier et pilon sur ruban arc en ciel | A pris du ghb, a l'endroit: consciement, a l'envers: a son insu |
+| Mortier et pilon sur ruban arc en ciel | A pris du ghb |
+|  | a l'endroit: consciement |
+|  | a l'envers: a son insu |
+| Chameau | A l'endroit: avoue se masturber |
+|  | A l'envers: ne l'avoue pas |
+| Squelette | A l'endroit: personne posedant des os |
+|  | A l'envers: personne aimant les os |
+| Tête de cheval | A l'endroit: Aime le cheval dans l'assiete |
+|  | A l'envers: s'est fait prank en mode le parrain |
 | Bouteille de chartreuse | Est parisien |
 | Lettres P U C E A U  | Est Puceau |
 | Chauve Souris à l'envers | Amour de Batman |
 | Tux | Amour de Tux |
 | Pachy | Humour ingénieur |
-| Singe | connerie certifié |
 | Chauve-souris | A fait la nouba à la pistoche |
 | Chauve-souris sur crachat | A fait la nouba à la pistoche |
 | hache croisé carotte | A niqué une soeur |
 | Abeille sur Ruban Violet | Myope |
 | Plume | Mousquetaire |
-| Épée | S'est masturbé 8 fois en 24 heures |
 | Gourdin | Gand bretteur |
 | Hache | Prise de Brocode |
 | Couvert jetable | Amateur de fish & chips |
 | Lettres "LOL", "LEL", "KEK" ou "TOPKEK" | Personne drôle (par ordre d'intensité) |
 | Lettres "MDR" | Personne drôle en français |
 | Lettres "XD" | Personne bon public | 
+| Anneaux Olympiques | Staps qui a réussi |
+| Cochon | Gros porc |
+| Feuille de vigne | Plus beau boule de rose grenoble |
+| Fourchette croisé faucille | S'est rendu compte que ca donne faim d'etre communiste |
+| Tête de vache | Personne moche |
+| Lion | Amateur du roi lion |
+
+Insignes descernés par les croix:
+
+| Bacchus | Nas pas perdu sa grosse trousse |
+| Bouteille de bordeaux | Invitation oficielle des croix a se la coller severe |
+| Bouteille de Champagne | Quand l'invitation susmentionnée est partie en live |
+| Chouette | Personne chouette, tellement chouette que si elle se l'auto descerne, aller spa très grave |
+| Coq | Grande gueule sucant des bites |
+| Singe | connerie certifié |
+| Cor de chasse | Farm comme un chinois a l'usine |
+| Mamouth | Est en prison |
+| Sou troué | Pauvre de oooooooouf |
+| Épée | S'est masturbé 8 fois en 24 heures |
+
+Insigne descernés par le/la/les partenaire(s) :
+
+| Pensée | A réaliser la plus grande partie |
+| Flèche | A finit sa partie le premier |
+| Lime | A galère sa mere |
 
 4. Elus aux differents conseils
 5. Vos armes personnelles
+   * Famas
+   * m4
+   * Couteau suisse
+   * Ta bite même ca passe
+  
 6. Les rubans de province et ville natales:
     Surmontés des ecussons en toile correspondants.
 
 # Article IX
-Celui la tu t'en tape t'es pas carabin
+Le circulaire de la faluche peut être de velours ou de satin, ceci est sensé refleter la filière représenter, le velours êtant tout doux et plutôt chouette sera reservé aux filières bonne ambiance, les relou, pleureurs et autres drama kings se verront affubler de satin. Les filières dont on ne connais pas le coefficient de drolitude auront le droit de porté du lin ou du coton au choix, on appelle ca la chance du debutant.
 
 # Article X
-Alors la t'as d'autres rubans a mettre
+Sur le velours figurent aussi les rubans supérieurs de gauche à droite, du frontal à l’occipital :
+
+1. Le ruban de la ville de faculté
+   Ruban perpendiculaire à celui de l’association, aux couleurs de la ville de faculté, surmonté d’un écusson.
+   L’étudiant changeant de ville de faculté (France ou étranger) placera parallèlement et en arrière du précédent, un ruban surmonté d’un écusson, aux couleurs de sa nouvelle ville universitaire, et l’année de changement en chiffres.
+
+2. Les rubans d’associations
+   Ruban aux couleurs de l’association précisant la place occupée par l’étudiant.
+
+3. Pour les représentants d’association
+   a) Pour les membres du conseil d’administration et du bureau d’association régionale : un ruban aux couleurs de la ville d’élection
+   
+   b) Pour les élus et délégués au plan national :
+      — Pour les membres du conseil d’administration des associations, unions, fédérations nationales : un ruban tricolore
+      — Pour les membres de bureau : un ruban tricolore avec un filet blanc de chaque coté — Pour le président : un ruban tricolore avec une bande blanche de chaque coté
+   
+   c) Pour les élus ou délégués au plan européen : Les couleurs de l’Europe
+   
+   d) Pour les élus ou délégués au plan international : les couleurs de l’O.N.U. Le délégué placera le ruban de plus haut grade
+
+4. Élus aux conseils d’UFR, conseils d’université, conseils régionaux et nationaux
+   L’élu placera, du frontal à l’occipital, un ruban de couleur jaune dont l’extrémité occipitale sera laissée libre. Sur ce pendentif seront placées par mandat :
+      
+      — Une grenouille argentée pour les élus au conseil d’UFR
+      — Une grenouille dorée pour les élus au conseil d’université
+      — Une tortue argentée pour les élus au CROUS
+      — Une tortue dorée pour les élus au CNOUS
+      — Les initiales des autres conseils (CNESER, OVE, COMUE ...)
+      — Une étoile dorée pour les VP étudiants d’université
+      — Une étoile argentée pour le VP étudiant d’UFR ou de CA d’IUT
+      — Une étoile dorée par mandat de délégués mutualistes (sur un petit ruban bleu)
+
+5. Les rubans de province et de ville de naissance
+   Surmontés des écussons en toile correspondants.
 
 # Article XI
 La filière est guidé par un prophete distingué par une tete de mort sur feuille de vigne, il veille a l'application de la philosophie IPP et est en mesure de sanctionner tout ecart par une tete de mort sur étoile et foutre, car la seule place pour notre descendence c'est un rouleau de Sopalin.
