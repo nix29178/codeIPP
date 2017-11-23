@@ -5,11 +5,11 @@ tagline: Supporting tagline
 ---
 
 # Introduction
-En l'an de grâce 2017 les faluchards Ingénieurs Puceaux Parisiens (IPP) créé un Fork du code National de la Faluche pour créer le code IPP
+En l'an de grâce 2017 les faluchards Ingénieurs Puceaux Parisiens (IPP) créent un Fork du code National de la Faluche pour créer le code IPP
 
 # Article I
-La faluche est la coiffe traditionelle des étudiants de France. Elle a remplacé la toque datant du Moyen-Age. Les étudiants français l'ont ramenée de Bologne, lors d'un congrès international d'étudiants où ils adoptèrent le béret de velours des habitants de la région bolognaise (juin 106 avant ID).
-La Croix IPP, pour Ingénieurs Puceaux Parisiens est créée en l'an 5 de la fusion des croix d'Ecole de Paris et d'Ile de France, elle est le symbole de l'union et de l'entente des élèves-ingénieurs et ingénieurs de cette région.
+La faluche est la coiffe traditionnelle des étudiants de France. Elle a remplacé la toque datant du Moyen Âge. Les étudiants français l'ont ramenée de Bologne, lors d'un congrès international d'étudiants où ils adoptèrent le béret de velours des habitants de la région bolognaise (juin 106 avant ID).
+La Croix IPP, pour Ingénieurs Puceaux Parisiens est créée en l'an 5 de la fusion des croix d'École de Paris et d'Île-de-France, elle est le symbole de l'union et de l'entente des élèves ingénieurs et ingénieurs de cette région.
 
 # Article II
 La faluche est portée de nos jours dans certaines facultés, d'une manière habituelle ou à titre exceptionnel, lors de manifestations estudiantines. On ne l'enlève pas, même devant un professeur, sauf s'il a le rang de recteur.
@@ -27,17 +27,17 @@ La faluche comporte deux parties:
     * Le velours noir (avec ses rubans supérieurs).
 
 # Article VI
-Le ruban circulaire est à la couleur de la discipline principale. Pour les disciplines secondaires, on placera sur le bord supérieur du ruban de la discipline principale, un ruban plus mince aux couleurs de la discipline annexe. Le circulaire pourra être en bois ou en plexiglace mais il est inconcevable d'avoir un circulaire en metal, materiau reservé a la fabrication de canettes.
+Le ruban circulaire est à la couleur de la discipline principale. Pour les disciplines secondaires, on placera sur le bord supérieur du ruban de la discipline principale, un ruban plus mince aux couleurs de la discipline annexe. Le circulaire pourra être en bois ou en plexiglace mais il est inconcevable d'avoir un circulaire en métal, matériau réservé à la fabrication de canettes.
 
 Voici les couleurs nationalement adoptées, basées sur celles des toges doctorales et professorales des universités françaises :
 
-| Ecoles d'ingenieur |     Velours bleu marine et noir     |
-| Medecine           | Velours rouge |
-| Preparateur en pharmacie | Velours vert |
+| Écoles d'ingénieur |     Velours bleu marine et noir     |
+| Médecine           | Velours rouge |
+| Préparateur en pharmacie | Velours vert |
 | Vétérinaire | Velours violet |
 | Chirurgie dentaire | Velours bordeaux |
 | Paramédical | Velours rose |
-| Sage Femme | Velours fushia |
+| Sage Femme | Velours fuchsia |
 | Institut Universitaire de Technologie | Satin blanc |
 | Classes Préparatoires aux Grandes Écoles | Satin Marron |
 | IF | Un peu de tout, clairement la flemme, google it |
@@ -55,19 +55,19 @@ Sur le ruban circulaire doit figurer :
     | S | ε |
     | ES | β |
     | L | lol |
-    | * | Tu l'ecris |
+    | * | Tu l'écris |
 2. Les emblemes
 
     | Ecoles d'ingenieur | Etoile et foutre (le nom de l'école peut être indiqué) |
     | Institut Universitaire de Technologie | Marteau et Maillet |
     | Classes Préparatoires aux Grandes Écoles | Chouette Bicéphale |
 
-NB : Le cas de la L1 Santé. En cas de le L1 réussie, tu aura une gomette. En cas de L1 échoué ou en cours, tu n'en aura pas.
+NB : Le cas de la L1 Santé. En cas de le L1 réussie, tu auras une gomette. En cas de L1 échoué ou en cours, tu n'en auras pas.
 
 3. Le cursus universitaire
 
-4. Les etudiants etrangers
-Ils devrons placer le drapeau de leur pays d'origin sous la 1ere etoile
+4. Les étudiants étrangers
+Ils devront placer le drapeau de leur pays d'origine sous la 1ère étoile
 
 # Article VIII
 Le velours peut comporter :
@@ -82,7 +82,7 @@ Le velours peut comporter :
 
    * Ecrit dans la langue que tu veux, en sms je m'en bat les couilles mamène
 
-3. les symboles
+3. Les symboles
 
 | Mortier et pilon sur ruban arc en ciel | A pris du ghb |
 |  | a l'endroit: consciement |
@@ -98,6 +98,7 @@ Le velours peut comporter :
 | Chauve Souris à l'envers | Amour de Batman |
 | Tux | Amour de Tux |
 | Pachy | Humour ingénieur |
+| Singe | connerie certifiée |
 | Chauve-souris | A fait la nouba à la pistoche |
 | Chauve-souris sur crachat | A fait la nouba à la pistoche |
 | hache croisé carotte | A niqué une soeur |
@@ -192,10 +193,10 @@ L'article étant trop compliqué pour être traité ici va la [Article XII](http
 
 # Article XIII
 Il sera procédé à l'élection d'un Grand Maître, choisi par les faluchards au vu de ses mérites, et dont le tâche principale sera de veiller à l'application des principes de base qui régissent le port de la faluche.
-L'élection du grand maitre doit se faire dans la joie et la bonne humeur, tout manquement à cette règle se verra l'objet d'une sanction imposé et/ou infligé par Yull 
+L'élection du grand maitre doit se faire dans la joie et la bonne humeur, tout manquement à cette règle se verra l'objet d'une sanction imposé et/ou infligé par Yull
 Sa distinction est une croix du mérite émaillée de blanc soutenue par un ruban bleu et noir. Lui seul est en mesure de décerner le Bacchus, l'abeille, le coq, le cor de chasse, la chouette, la poule.
 Il doit en outre certifier, avec le concours de trois autres porteurs de faluche, l'acquisition de bouteilles.
-Il existe aussi des Grands Chambellans qui assistent le Grand Maître dans sa tâche. Leur distinction est une croix au mérite non émaillée soutenue par un ruban bleu et noir. Le grand chambellan se doit de servir les verres à la perfection. 
+Il existe aussi des Grands Chambellans qui assistent le Grand Maître dans sa tâche. Leur distinction est une croix au mérite non émaillée soutenue par un ruban bleu et noir. Le grand chambellan se doit de servir les verres à la perfection.
 
 # Article XIV
 Toute faluche devra être baptisée sous l'oeuil attentif du Grand Maître ou des anciens.
@@ -209,7 +210,7 @@ Compliqué a decrire, [plus d'infos](https://www.youtube.com/watch?v=DtFXxlMOVFk
 # Article XVII
 La faluche est un attribut qui doit être respecté par tous. Des sanctions pourront être prises pour tout non-respect vis-à-vis d'une faluche. D'autre part, tout étudiant surpris en train de bizuter en début d'année sans être porteur d'une faluche sera lui-même considéré comme bizuth. Il encourt, à ce titre, les pires sévices.
 
-# Article XLII 
+# Article XLII
 Tout faluchard ingénieur irrespectueux envers ces croix ou devant les talents des sciences seront impérativement privé de nouba à la pistoche. Si cette sanction ne suffit pas, le concerné se verra obliger de boire du savoureux rhum-tomate.
 
 # Une note sur les adoptions IF
