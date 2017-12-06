@@ -117,6 +117,7 @@ Le velours peut comporter :
 | Fourchette croisé faucille | S'est rendu compte que ca donne faim d'etre communiste |
 | Tête de vache | Personne moche |
 | Lion | Amateur du roi lion |
+| Carotte | S'est fait baisé |
 
 Insignes descernés par les croix:
 
