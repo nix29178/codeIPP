@@ -131,6 +131,7 @@ Insignes descernés par les croix:
 | Mamouth | Est en prison |
 | Sou troué | Pauvre de oooooooouf |
 | Épée | S'est masturbé 8 fois en 24 heures |
+| Poule | Ta mère la pute |
 
 Insigne descernés par le/la/les partenaire(s) :
 
