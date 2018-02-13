@@ -112,6 +112,8 @@ Le velours peut comporter :
 | Lettres "MDR" | Personne drôle en français |
 | Lettres "XD" | Personne bon public | 
 | Lettres "XD" à l'envers | Personne bon public de ses propres blagues |
+| Lettre "X" | Personne bon public qui ne fini pas ses blagues |
+| Lettre "D" | Personne bon public qui ne commence pas ses blagues |
 | Anneaux Olympiques | Staps qui a réussi |
 | Cochon | Gros porc |
 | Feuille de vigne | Plus beau boule de rose grenoble |
