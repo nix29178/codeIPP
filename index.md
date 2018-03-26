@@ -57,6 +57,7 @@ Sur le ruban circulaire doit figurer :
     | ES | β |
     | L | lol |
     | * | Tu l'écris |
+
 2. Les emblemes
 
     | Ecoles d'ingenieur | Etoile et foutre (le nom de l'école peut être indiqué) |
@@ -74,9 +75,9 @@ Ils devront placer le drapeau de leur pays d'origine sous la 1ère étoile
 Le velours peut comporter :
 1. Les insignes
 
-   * Des congrès auquel t'as participer mon gars
+   * Des congrès auquel t'as participé mon gars
    * Des dagobi que t'as goulument avalés 
-   * Que t'as voler a tes potes en soirée
+   * Que t'as volés a tes potes en soirée
    * Que tu veux en fait
 
 2. Votre devise
@@ -90,7 +91,7 @@ Le velours peut comporter :
 |  | a l'envers: a son insu |
 | Chameau | A l'endroit: avoue se masturber |
 |  | A l'envers: ne l'avoue pas |
-| Squelette | A l'endroit: personne posedant des os |
+| Squelette | A l'endroit: personne possedant des os |
 |  | A l'envers: personne aimant les os |
 | Tête de cheval | A l'endroit: Aime le cheval dans l'assiete |
 |  | A l'envers: s'est fait prank en mode le parrain |
@@ -121,6 +122,7 @@ Le velours peut comporter :
 | Tête de vache | Personne moche |
 | Lion | Amateur du roi lion |
 | Carotte | S'est fait baisé |
+| Tomate | Mange 5 fruits et légumes par jour |
 
 Insignes descernés par les croix:
 
@@ -142,7 +144,7 @@ Insigne descernés par le/la/les partenaire(s) :
 
 | Pensée | A réaliser la plus grande partie |
 | Flèche | A finit sa partie le premier |
-| Lime | A galère sa mere |
+| Lime | A galéré sa mere |
 
 4. Elus aux differents conseils
 5. Vos armes personnelles
@@ -155,7 +157,7 @@ Insigne descernés par le/la/les partenaire(s) :
     Surmontés des ecussons en toile correspondants.
 
 # Article IX
-Le circulaire de la faluche peut être de velours ou de satin, ceci est sensé refleter la filière représenter, le velours êtant tout doux et plutôt chouette sera reservé aux filières bonne ambiance, les relou, pleureurs et autres drama kings se verront affubler de satin. Les filières dont on ne connais pas le coefficient de drolitude auront le droit de porté du lin ou du coton au choix, on appelle ca la chance du debutant.
+Le circulaire de la faluche peut être de velours ou de satin, ceci est sensé refleter la filière représenter, le velours êtant tout doux et plutôt chouette sera reservé aux filières bonne ambiance, les relou, pleureurs et autres drama kings se verront affubler de satin. Les filières dont on ne connait pas le coefficient de drolitude auront le droit de porté du lin ou du coton au choix, on appelle ca la chance du debutant.
 
 # Article X
 Sur le velours figurent aussi les rubans supérieurs de gauche à droite, du frontal à l’occipital :
@@ -185,7 +187,7 @@ Sur le velours figurent aussi les rubans supérieurs de gauche à droite, du fro
       — Une grenouille dorée pour les élus au conseil d’université
       — Une tortue argentée pour les élus au CROUS
       — Une tortue dorée pour les élus au CNOUS
-      — Les initiales des autres conseils (CNESER, OVE, COMUE ...)
+      — Les initiales des autres conseils (CNESER, OVE, COMUE, OVULE, BITE, ...)
       — Une étoile dorée pour les VP étudiants d’université
       — Une étoile argentée pour le VP étudiant d’UFR ou de CA d’IUT
       — Une étoile dorée par mandat de délégués mutualistes (sur un petit ruban bleu)
@@ -200,10 +202,10 @@ La filière est guidé par un prophete distingué par une tete de mort sur feuil
 L'article étant trop compliqué pour être traité ici va la [Article XII](http://teenhealthsource.com/sex/introduction-sex/)
 
 # Article XIII
-Il sera procédé à l'élection d'un Grand Maître, choisi par les faluchards au vu de ses mérites, et dont le tâche principale sera de veiller à l'application des principes de base qui régissent le port de la faluche.
+Il sera procédé à l'élection d'un Grand Maître, choisi par les faluchards au vu de ses mérites, et dont le tâche principale sera de veiller à l'application des principes de base qui régissent le port de la faluche, ainsi qu'à l'organisation de noubas et autres soirées bibitives.
 L'élection du grand maitre doit se faire dans la joie et la bonne humeur, tout manquement à cette règle se verra l'objet d'une sanction imposé et/ou infligé par Yull
 Sa distinction est une croix du mérite émaillée de blanc soutenue par un ruban bleu et noir. Lui seul est en mesure de décerner le Bacchus, l'abeille, le coq, le cor de chasse, la chouette, la poule.
-Il doit en outre certifier, avec le concours de trois autres porteurs de faluche, l'acquisition de bouteilles.
+Il doit en outre certifié, avec le concours de trois autres porteurs de faluche, l'acquisition de bouteilles.
 Il existe aussi des Grands Chambellans qui assistent le Grand Maître dans sa tâche. Leur distinction est une croix au mérite non émaillée soutenue par un ruban bleu et noir. Le grand chambellan se doit de servir les verres à la perfection.
 
 # Article XIV
