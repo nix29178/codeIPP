@@ -27,14 +27,14 @@ La faluche comporte deux parties:
     * Le velours noir (avec ses rubans supérieurs).
 
 # Article VI
-Le ruban circulaire est à la couleur de la discipline principale. Pour les disciplines secondaires, on placera sur le bord supérieur du ruban de la discipline principale, un ruban plus mince aux couleurs de la discipline annexe. Le circulaire pourra être en bois ou en plexiglace mais il est inconcevable d'avoir un circulaire en métal, matériau réservé à la fabrication de canettes.
+Le ruban circulaire est à la couleur de la discipline principale. Pour les disciplines secondaires, on placera sur le bord supérieur du ruban de la discipline principale, un ruban plus mince aux couleurs de la discipline annexe. Le circulaire pourra être en bois ou en plexiglas mais il est inconcevable d'avoir un circulaire en métal, matériau réservé à la fabrication de canettes.
 
 Voici les couleurs nationalement adoptées, basées sur celles des toges doctorales et professorales des universités françaises :
 
 | Écoles d'ingénieur |     Velours bleu marine et noir     |
 | Médecine           | Velours rouge |
 | Préparateur en pharmacie | Velours vert |
-| Pharma (avec doctorat et tout genre qui pese) | satin vert (different des preparateurs) |
+| Pharma (avec doctorat et tout genre qui pèse) | Satin vert (différent des préparateurs) |
 | Vétérinaire | Velours violet |
 | Chirurgie dentaire | Velours bordeaux |
 | Paramédical | Satin rose |
@@ -45,7 +45,7 @@ Voici les couleurs nationalement adoptées, basées sur celles des toges doctora
 | Chiences | Satin violé |
 | Tout ce qui va te mener au mac do/Chomage | Satin Jaune |
 | Ceux qui courent après la baballe | Satin vert |
-| Faites une pull request et ajoutez en | la j'ai la flemme |
+| Faites une pull request et ajoutez en | là j'ai la flemme |
 
 # Article VII
 
@@ -58,13 +58,13 @@ Sur le ruban circulaire doit figurer :
     | L | lol |
     | * | Tu l'écris |
 
-2. Les emblemes
+2. Les emblèmes
 
-    | Ecoles d'ingenieur | Etoile et foutre (le nom de l'école peut être indiqué) |
+    | Écoles d'ingénieur | Étoile et foutre (le nom de l'école peut être indiqué) |
     | Institut Universitaire de Technologie | Marteau et Maillet |
     | Classes Préparatoires aux Grandes Écoles | Chouette Bicéphale |
 
-NB : Le cas de la L1 Santé. En cas de le L1 réussie, tu auras une gomette. En cas de L1 échoué ou en cours, tu n'en auras pas.
+NB : Le cas de la L1 Santé. En cas de le L1 réussie, tu auras une gomette. En cas de L1 échouée ou en cours, tu n'en auras pas.
 
 3. Le cursus universitaire
 
@@ -77,87 +77,87 @@ Le velours peut comporter :
 
    * Des congrès auquel t'as participé mon gars
    * Des dagobi que t'as goulument avalés 
-   * Que t'as volés a tes potes en soirée
+   * Que t'as volés à tes potes en soirée
    * Que tu veux en fait
 
 2. Votre devise
 
-   * Ecrit dans la langue que tu veux, en sms je m'en bat les couilles mamène
+   * Écrit dans la langue que tu veux, en sms je m'en bat les couilles mamène
 
 3. Les symboles
 
-| Mortier et pilon sur ruban arc en ciel | A pris du ghb |
-|  | a l'endroit: consciement |
-|  | a l'envers: a son insu |
-| Chameau | A l'endroit: avoue se masturber |
-|  | A l'envers: ne l'avoue pas |
-| Squelette | A l'endroit: personne possedant des os |
-|  | A l'envers: personne aimant les os |
-| Tête de cheval | A l'endroit: Aime le cheval dans l'assiete |
-|  | A l'envers: s'est fait prank en mode le parrain |
+| Mortier et pilon sur ruban arc-en-ciel | A pris du GHB |
+|  | à l'endroit : consciemment |
+|  | à l'envers : à son insu |
+| Chameau | à l'endroit : avoue se masturber |
+|  | à l'envers : ne l'avoue pas |
+| Squelette | à l'endroit : personne possédant des os |
+|  | à l'envers : personne aimant les os |
+| Tête de cheval | à l'endroit : aime le cheval dans l'assiette |
+|  | à l'envers : s'est fait prank en mode le parrain |
 | Bouteille de chartreuse | Est parisien |
 | Lettres P U C E A U  | Est Puceau |
 | Chauve Souris à l'envers | Amour de Batman |
 | Tux | Amour de Tux |
 | Pachy | Humour ingénieur |
-| Singe | connerie certifiée |
+| Singe | Connerie certifiée |
 | Chauve-souris | A fait la nouba à la pistoche |
 | Chauve-souris sur crachat | A fait la nouba à la pistoche |
-| hache croisé carotte | A niqué une soeur |
+| Hache croisé carotte | A niqué une soeur |
 | Abeille sur Ruban Violet | Myope |
 | Plume | Mousquetaire |
-| Gourdin | Gand bretteur |
+| Gourdin | Grand bretteur |
 | Hache | Prise de Brocode |
 | Couvert jetable | Amateur de fish & chips |
 | Lettres "LOL", "LEL", "KEK" ou "TOPKEK" | Personne drôle (par ordre d'intensité) |
 | Lettres "MDR" | Personne drôle en français |
 | Lettres "XD" | Personne bon public | 
 | Lettres "XD" à l'envers | Personne bon public de ses propres blagues |
-| Lettre "X" | Personne bon public qui ne fini pas ses blagues |
+| Lettre "X" | Personne bon public qui ne finit pas ses blagues |
 | Lettre "D" | Personne bon public qui ne commence pas ses blagues |
 | Anneaux Olympiques | Staps qui a réussi |
 | Cochon | Gros porc |
 | Feuille de vigne | Plus beau boule de rose grenoble |
-| Fourchette croisé faucille | S'est rendu compte que ca donne faim d'etre communiste |
+| Fourchette croisé faucille | S'est rendu compte que ça donne faim d'être communiste |
 | Tête de vache | Personne moche |
 | Lion | Amateur du roi lion |
 | Carotte | S'est fait baisé |
 | Tomate | Mange 5 fruits et légumes par jour |
 
-Insignes descernés par les croix:
+Insignes decernés par les croix :
 
-| Bacchus | Nas pas perdu sa grosse trousse |
-| Bouteille de bordeaux | Invitation oficielle des croix a se la coller severe |
+| Bacchus | N'a pas perdu sa grosse trousse |
+| Bouteille de bordeaux | Invitation officielle des croix à se la coller sévère |
 | Bouteille de Champagne | Quand l'invitation susmentionnée est partie en live |
-| Chouette | Personne chouette, tellement chouette que si elle se l'auto descerne, aller spa très grave |
-| Coq | Grande gueule sucant des bites |
-| Singe | connerie certifié |
-| Cor de chasse | Farm comme un chinois a l'usine |
+| Chouette | Personne chouette, tellement chouette que si elle se l'auto décerne, aller spa très grave |
+| Coq | Grande gueule suçant des bites |
+| Singe | Connerie certifiée |
+| Cor de chasse | Farm comme un chinois à l'usine |
 | Mamouth | Est en prison |
 | Sou troué | Pauvre de oooooooouf |
 | Épée | S'est masturbé 8 fois en 24 heures |
 | Poule | Fille bien |
-| Poule a l'envers | Tchoin |
+| Poule à l'envers | Tchoin |
 | Clou | S'est fait descernay un clou |
 
-Insigne descernés par le/la/les partenaire(s) :
+Insigne décernés par le/la/les partenaire(s) :
 
 | Pensée | A réaliser la plus grande partie |
 | Flèche | A finit sa partie le premier |
-| Lime | A galéré sa mere |
+| Lime | A galéré sa mère |
 
-4. Elus aux differents conseils
+4. Élus aux differents conseils
 5. Vos armes personnelles
    * Famas
-   * m4
+   * M4
    * Couteau suisse
-   * Ta bite même ca passe
+   * Ta bite même ça passe
   
-6. Les rubans de province et ville natales:
-    Surmontés des ecussons en toile correspondants.
+6. Les rubans de province et ville natales :
+    Surmontés des écussons en toile correspondants.
 
 # Article IX
-Le circulaire de la faluche peut être de velours ou de satin, ceci est sensé refleter la filière représenter, le velours êtant tout doux et plutôt chouette sera reservé aux filières bonne ambiance, les relou, pleureurs et autres drama kings se verront affubler de satin. Les filières dont on ne connait pas le coefficient de drolitude auront le droit de porté du lin ou du coton au choix, on appelle ca la chance du debutant.
+Le circulaire de la faluche peut être de velours ou de satin, ceci est sensé refleter la filière représentée, le velours êtant tout doux et plutôt chouette sera reservé aux filières bonne ambiance, les relou, pleureurs et autres drama kings se verront affubler de satin. Les filières dont on ne connait pas le coefficient de drolitude auront le droit de porter du lin ou du coton au choix, on appelle ça la chance du debutant.
 
 # Article X
 Sur le velours figurent aussi les rubans supérieurs de gauche à droite, du frontal à l’occipital :
@@ -196,32 +196,32 @@ Sur le velours figurent aussi les rubans supérieurs de gauche à droite, du fro
    Surmontés des écussons en toile correspondants.
 
 # Article XI
-La filière est guidé par un prophete distingué par une tete de mort sur feuille de vigne, il veille a l'application de la philosophie IPP et est en mesure de sanctionner tout ecart par une tete de mort sur étoile et foutre, car la seule place pour notre descendence c'est un rouleau de Sopalin.
+La filière est guidée par un prophète distingué par une tête de mort sur feuille de vigne, il veille à l'application de la philosophie IPP et est en mesure de sanctionner tout écart par une tête de mort sur étoile et foutre, car la seule place pour notre descendence c'est un rouleau de Sopalin.
 
 # Article XII
-L'article étant trop compliqué pour être traité ici va la [Article XII](http://teenhealthsource.com/sex/introduction-sex/)
+L'article étant trop compliqué pour être traité ici va là : [Article XII](http://teenhealthsource.com/sex/introduction-sex/)
 
 # Article XIII
 Il sera procédé à l'élection d'un Grand Maître, choisi par les faluchards au vu de ses mérites, et dont le tâche principale sera de veiller à l'application des principes de base qui régissent le port de la faluche, ainsi qu'à l'organisation de noubas et autres soirées bibitives.
-L'élection du grand maitre doit se faire dans la joie et la bonne humeur, tout manquement à cette règle se verra l'objet d'une sanction imposé et/ou infligé par Yull
+L'élection du grand maitre doit se faire dans la joie et la bonne humeur, tout manquement à cette règle se verra l'objet d'une sanction imposée et/ou infligée par Yull
 Sa distinction est une croix du mérite émaillée de blanc soutenue par un ruban bleu et noir. Lui seul est en mesure de décerner le Bacchus, l'abeille, le coq, le cor de chasse, la chouette, la poule.
 Il doit en outre certifié, avec le concours de trois autres porteurs de faluche, l'acquisition de bouteilles.
 Il existe aussi des Grands Chambellans qui assistent le Grand Maître dans sa tâche. Leur distinction est une croix au mérite non émaillée soutenue par un ruban bleu et noir. Le grand chambellan se doit de servir les verres à la perfection.
 
 # Article XIV
-Toute faluche devra être baptisée sous l'oeuil attentif du Grand Maître ou des anciens.
+Toute faluche devra être baptisée sous l'œil attentif du Grand Maître ou des anciens.
 
 # Article XV
 La faluche doit être portée dans toute cérémonie : repas, soirées, sorties estudiantines, trois petits points
 
 # Article XVI
-Compliqué a decrire, [plus d'infos](https://www.youtube.com/watch?v=DtFXxlMOVFk)
+Compliqué à décrire, [plus d'infos](https://www.youtube.com/watch?v=DtFXxlMOVFk)
 
 # Article XVII
 La faluche est un attribut qui doit être respecté par tous. Des sanctions pourront être prises pour tout non-respect vis-à-vis d'une faluche. D'autre part, tout étudiant surpris en train de bizuter en début d'année sans être porteur d'une faluche sera lui-même considéré comme bizuth. Il encourt, à ce titre, les pires sévices.
 
 # Article XLII
-Tout faluchard ingénieur irrespectueux envers ces croix ou devant les talents des sciences seront impérativement privé de nouba à la pistoche. Si cette sanction ne suffit pas, le concerné se verra obliger de boire du savoureux rhum-tomate.
+Tout faluchard ingénieur irrespectueux envers ces croix ou devant les talents des sciences sera impérativement privé de nouba à la pistoche. Si cette sanction ne suffit pas, le concerné se verra obliger de boire du savoureux rhum-tomate.
 
 # Une note sur les adoptions IF
 Non.
