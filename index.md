@@ -34,10 +34,10 @@ Voici les couleurs nationalement adoptées, basées sur celles des toges doctora
 | Écoles d'ingénieur |     Velours bleu marine et noir     |
 | Médecine           | Velours rouge |
 | Préparateur en pharmacie | Velours vert |
-| Pharma (avec doctorat et tout genre qui pese) | satin vert (different des preparateurs) |
+| Pharma (avec doctorat et tout genre qui pese) | Satin vert gelé (different des preparateurs) |
 | Vétérinaire | Velours violet |
 | Chirurgie dentaire | Velours bordeaux |
-| Paramédical | Satin rose |
+| Paramédical | Satin rose trompeur |
 | Sage Femme | Satin fuchsia |
 | Institut Universitaire de Technologie | Satin blanc |
 | Classes Préparatoires aux Grandes Écoles | Satin Marron |
