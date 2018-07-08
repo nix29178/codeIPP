@@ -89,7 +89,7 @@ Le velours peut comporter :
 | Mortier et pilon sur ruban arc en ciel | A pris du ghb |
 |  | a l'endroit: consciement |
 |  | a l'envers: a son insu |
-| Chameau | A l'endroit: avoue se masturber |
+| Quadripède à bosse | A l'endroit: avoue se masturber |
 |  | A l'envers: ne l'avoue pas |
 | Squelette | A l'endroit: personne possedant des os |
 |  | A l'envers: personne aimant les os |
