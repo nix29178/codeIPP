@@ -123,6 +123,7 @@ Le velours peut comporter :
 | Lion | Amateur du roi lion |
 | Carotte | S'est fait baisé |
 | Tomate | Mange 5 fruits et légumes par jour |
+| Dauphin | Est un animal |
 
 Insignes descernés par les croix:
 
