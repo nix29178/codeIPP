@@ -45,6 +45,7 @@ Voici les couleurs nationalement adoptées, basées sur celles des toges doctora
 | Chiences | Satin violé |
 | Tout ce qui va te mener au mac do/Chomage | Satin Jaune |
 | Ceux qui courent après la baballe | Satin vert |
+| Infographie à Namur en Belgique | Penne verte |
 | Faites une pull request et ajoutez en | la j'ai la flemme |
 
 # Article VII
