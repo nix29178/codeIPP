@@ -31,6 +31,8 @@ Le ruban circulaire est à la couleur de la discipline principale. Pour les disc
 
 Voici les couleurs nationalement adoptées, basées sur celles des toges doctorales et professorales des universités françaises :
 
+|Étude| .|
+|---|---|
 | Écoles d'ingénieur |     Velours bleu marine et noir     |
 | Médecine           | Velours rouge |
 | Préparateur en pharmacie | Velours vert |
@@ -87,6 +89,8 @@ Le velours peut comporter :
 
 3. Les symboles
 
+|Symbole| Signification|
+|---|---|
 | Mortier et pilon sur ruban arc en ciel | A pris du ghb |
 |  | a l'endroit: consciement |
 |  | a l'envers: a son insu |
@@ -129,6 +133,8 @@ Le velours peut comporter :
 
 Insignes descernés par les croix:
 
+|Insigne| Signification|
+|---|---|
 | Bacchus | Nas pas perdu sa grosse trousse |
 | Bouteille de bordeaux | Invitation oficielle des croix a se la coller severe |
 | Bouteille de Champagne | Quand l'invitation susmentionnée est partie en live |
