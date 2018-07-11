@@ -8,7 +8,7 @@ tagline: Supporting tagline
 En l'an de grâce 2017 les faluchards Ingénieurs Puceaux Parisiens (IPP) créent un Fork du code National de la Faluche pour créer le code IPP
 
 # Article I
-La faluche est la coiffe traditionnelle des étudiants de France. Elle a remplacé la toque datant du Moyen Âge. Les étudiants français l'ont ramenée de Bologne, lors d'un congrès international d'étudiants où ils adoptèrent le béret de velours des habitants de la région bolognaise (juin 106 avant ID).
+La faluche est la coiffe traditionnelle des étudiants de France. Elle a remplacé la toque datant du Moyen Âge. Les étudiants français ne l'ont pas ramenée de Bologne, lors d'un congrès international d'étudiants où ils adoptèrent le béret de velours des habitants de la région bolognaise (juin 106 avant ID).
 La Croix IPP, pour Ingénieurs Puceaux Parisiens est créée en l'an 5 de la fusion des croix d'École de Paris et d'Île-de-France, elle est le symbole de l'union et de l'entente des élèves ingénieurs et ingénieurs de cette région.
 
 # Article II
