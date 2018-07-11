@@ -124,6 +124,7 @@ Le velours peut comporter :
 | Carotte | S'est fait baisé |
 | Tomate | Mange 5 fruits et légumes par jour |
 | Dauphin | Est un animal |
+| Clé à molette | Amour de la mécanique |
 
 Insignes descernés par les croix:
 
