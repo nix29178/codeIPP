@@ -141,6 +141,7 @@ Insignes descernés par les croix:
 | Poule | Fille bien |
 | Poule a l'envers | Tchoin |
 | Clou | S'est fait descernay un clou |
+| Brocoli | Personne bruyante |
 
 Insigne descernés par le/la/les partenaire(s) :
 
