@@ -135,12 +135,14 @@ Insignes descernés par les croix:
 | Coq | Grande gueule sucant des bites |
 | Singe | connerie certifié |
 | Cor de chasse | Farm comme un chinois a l'usine |
+| Cor de chasse à l'envers | Se fait farm comme un chinois a l'usine |
 | Mamouth | Est en prison |
 | Sou troué | Pauvre de oooooooouf |
 | Épée | S'est masturbé 8 fois en 24 heures |
 | Poule | Fille bien |
 | Poule a l'envers | Tchoin |
 | Clou | S'est fait descernay un clou |
+| Glaive & Balance | A délationné un bro comme en 40 |
 
 Insigne descernés par le/la/les partenaire(s) :
 
