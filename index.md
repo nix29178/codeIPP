@@ -125,6 +125,7 @@ Le velours peut comporter :
 | Tomate | Mange 5 fruits et légumes par jour |
 | Dauphin | Est un animal |
 | Clé à molette | Amour de la mécanique |
+| Sphénoïde sur velours bleu roy | Forceur |
 
 Insignes descernés par les croix:
 
