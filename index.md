@@ -38,6 +38,7 @@ Voici les couleurs nationalement adoptées, basées sur celles des toges doctora
 | Vétérinaire | Velours bordeaux |
 | Chirurgie dentaire | Velours violet |
 | Paramédical | Satin rose trompeur |
+| Podologie | Velours rose |
 | Sage Femme | Satin fuchsia |
 | Institut Universitaire de Technologie | Satin blanc |
 | Classes Préparatoires aux Grandes Écoles | Satin Marron |
