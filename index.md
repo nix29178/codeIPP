@@ -126,6 +126,8 @@ Le velours peut comporter :
 | Tomate | Mange 5 fruits et légumes par jour |
 | Dauphin | Est un animal |
 | Clé à molette | Amour de la mécanique |
+| Lettres "FlM" sur Feuille de vigne | à l'endroit à eu la FlM en soirée |
+|  | à l'envers : s'est pri un FlM dans ses dents|
 
 Insignes descernés par les croix:
 
