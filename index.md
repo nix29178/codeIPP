@@ -92,6 +92,7 @@ Le velours peut comporter :
 |  | a l'envers: a son insu |
 | Quadripède à bosse | A l'endroit: avoue se masturber |
 |  | A l'envers: ne l'avoue pas |
+|  | Sur ruban: avoue masturber une personne de la filière concernée
 | Squelette | A l'endroit: personne possedant des os |
 |  | A l'envers: personne aimant les os |
 | Tête de cheval | A l'endroit: Aime le cheval dans l'assiete |
