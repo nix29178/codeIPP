@@ -142,6 +142,7 @@ Insignes descernés par les croix:
 | Poule | Fille bien |
 | Poule a l'envers | Tchoin |
 | Clou | S'est fait descernay un clou |
+| Ski | Assez large pour qu'on y aille tout schuss (possibilité de le mettre sur ruban pour indiquer la largueur par piste de ski) |
 
 Insigne descernés par le/la/les partenaire(s) :
 
