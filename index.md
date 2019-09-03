@@ -126,6 +126,7 @@ Le velours peut comporter :
 | Tomate | Mange 5 fruits et légumes par jour |
 | Dauphin | Est un animal |
 | Clé à molette | Amour de la mécanique |
+| konami code | est devenu GM IPP apres avoir fait un IUT |
 
 Insignes descernés par les croix:
 
