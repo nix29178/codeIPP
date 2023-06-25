@@ -43,7 +43,7 @@ Voici les couleurs nationalement adoptées, basées sur celles des toges doctora
 | Institut Universitaire de Technologie | Satin blanc |
 | Classes Préparatoires aux Grandes Écoles | Satin Marron |
 | IF | Un peu de tout, clairement la flemme, google it |
-| Chiences | Satin violait |
+| Chiences | Satin violet |
 | Tout ce qui va te mener au mac do/Chomage | Satin Jaune |
 | Ceux qui courent après la baballe | Satin vert |
 | Faites une pull request et ajoutez en | la j'ai la flemme |
