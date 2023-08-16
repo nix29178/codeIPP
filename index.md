@@ -126,6 +126,8 @@ Le velours peut comporter :
 | Tomate | Mange 5 fruits et légumes par jour |
 | Dauphin | Est un animal |
 | Clé à molette | Amour de la mécanique |
+| Nounours | A l'endroit: l'amour n'a pas d'âge |
+|  | A l'envers: ne s'avoue pas être pédophile |
 
 Insignes descernés par les croix:
 
